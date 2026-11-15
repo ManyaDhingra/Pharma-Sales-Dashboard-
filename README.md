@@ -41,7 +41,7 @@ The dataset contains daily sales records with 14 columns covering date, geograph
 - Inventory Analysis
 
 ## Project Screenshots
-(screenshots/Screenshot%202026-11-15%20232953.png)
+![Pharma-Sales-Dashboard](Screenshot 2026-11-15 232953.png)
 
 ## Key Learnings
 - Data cleaning using Power Query.
